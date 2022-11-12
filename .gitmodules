@@ -1,0 +1,4 @@
+[submodule "aluraflix-front"]
+	path = aluraflix-front
+	url = https://github.com/alura-cursos/aluraflix-front.git
+	branch = semana-1

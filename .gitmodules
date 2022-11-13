@@ -1,8 +1,8 @@
 [submodule "aluraflix-front"]
 	path = aluraflix-front
-	url = https://github.com/alura-cursos/aluraflix-front.git
+	url = https://github.com/fabiano182/aluraflix-front.git
 	branch = semana-1
 [submodule "aluraflix-back"]
 	path = aluraflix-back
-	url = https://github.com/fabiano182/aluraflix-backend.git
+	url = https://github.com/fabiano182/aluraflix-back.git
 	branch = semana-1
